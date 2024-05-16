@@ -1,0 +1,336 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+header {
+    margin-left: 144px;
+}
+#p1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: #5863E3;
+    margin: 57px auto 7px;
+}
+#heading1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #000000;
+}
+form > textarea {
+    margin-top: 30px;
+    width: 620px;
+    height: 290px;
+    border: 2px solid rgba(128, 128, 128, 0.589);
+    padding: 10px;
+}
+form > #Subject {
+    border: 2px solid gray;
+    position: relative;
+    left: 20px;
+    bottom: 280px;
+    width: 370px;
+    height: 35px;
+    padding: 10px;
+    background-color: #F8F8F8;
+}
+form > #fullname {
+    border: 2px solid gray;
+    width: 370px;
+    height: 35px;
+    padding: 10px;
+    background-color: #F8F8F8;
+    position: relative;
+    left: 668px;
+    bottom: 256px;
+}
+form > #email {
+    width: 370px;
+    height: 35px;
+    padding: 10px;
+    border: 2px solid gray;
+    background-color: #F8F8F8;
+    position: relative;
+    left: 270px;
+    bottom: 168px;
+}
+form > button {
+    font-size: 25px;
+    width: 395px;
+    height: 59px;
+    background-color: #5968F4;
+    color: #FBFBFF;
+    position: relative;
+    right: 128px;
+    bottom: 84px;
+}
+#bigdiv {
+    display: flex;
+    justify-content: space-evenly;
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: #5968F4;
+    border-radius: 50%;
+}
+.fa.fa-envelope {
+    position: absolute;
+    left: 220px;
+    bottom: -56px;
+    font-size: 50px;
+}
+#pirveli {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #4E4D54;
+    left: 25px;
+    top: 16px;
+}
+#p2 {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999A;
+    top: 25px;
+    left: -30px;
+}
+#p3 {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999A;
+    top: 30px;
+    left: -45px;
+}
+.fa.fa-phone {
+    position: absolute;
+    left: 630px;
+    bottom: -60px;
+    font-size: 50px;
+}
+#meore {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #4E4D54;
+    left: 20px;
+    top: 15px;
+}
+#p4 {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999A;
+    top: 25px;
+    left: -10px;
+}
+#p5 {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999A;
+    top: 30px;
+    left: -10px;
+}
+.fa.fa-map-marker {
+    position: absolute;
+    font-size: 50px;
+    right: 307px;
+    bottom: -55px;
+}
+#mesame {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #4E4D54;
+    left: 15px;
+    top: 15px;
+}
+#p6 {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999A;
+    top: 25px;
+    right: 20px;
+}
+#p7 {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #99999A;
+    top: 30px;
+    right: 30px;
+}
+#div2 {
+    margin-right: 64px;
+}
+#p8 {
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: #5863E3;
+    margin-left: 140px;
+}
+#heading2 {
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 138px;
+}
+#heading3 {
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 138px;
+}
+#divbigger {
+    display: flex;
+    justify-content: space-around;
+}
+footer {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+}
+#div4 {
+    margin-left: 144px;
+    
+}
+#heading4 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: #FFFFFF;
+    position: relative;
+    top: 63px;
+}
+#div4 > p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    color: #99999A;
+    position: relative;
+    top: 116px;
+}
+.fa.fa-facebook {
+    font-size: 40px;
+    color: blue;
+    position: relative;
+    top: 150px;
+}
+.fa.fa-twitter {
+    font-size: 40px;
+    color: cyan;
+    position: relative;
+    top: 150px;
+    left: 15px;
+}
+.fa.fa-google-plus {
+    font-size: 40px;
+    color: rgba(148, 43, 43, 0.877);
+    position: relative;
+    top: 150px;
+    left: 25px;
+}
+#span1 {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 21px;
+    position: relative;
+    left: 620px;
+    bottom: 85px;
+}
+#div5 {
+    display: flex;
+}
+#div6 {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+#div6 > a {
+    text-decoration: none;
+    color: #5863E3;
+    font-weight: 400;
+    font-size: 17px;
+    position: relative;
+    left: 512px;
+    bottom: 10px;
+    margin-bottom: 9px;
+}
+#span2 {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 21px;
+    position: relative;
+    left: 890px;
+    bottom: 200px;
+}
+#div8 > p {
+    text-decoration: none;
+    color: #5863E3;
+    font-weight: 400;
+    font-size: 17px;
+    position: relative;
+    margin-left: 890px;
+    bottom: 150px;
+    margin-bottom: 9px;
+}
+#span3 {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 21px;
+    position: relative;
+    left: 1120px;
+    bottom: 338px;
+}
+#div10 {
+    display: flex;
+    flex-direction: column;
+    width: 0;
+}
+#div10 > i {
+    color: #5863E3;
+    font-size: 20px;
+    position: relative;
+    left: 1122px;
+    bottom: 287px;
+    margin-bottom: 15px;
+}
+#div11 {
+    display: flex;
+    flex-direction: column;
+}
+#div11 > span {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 17px;
+    position: relative;
+    margin-left: 1160px;
+    bottom: 390px;
+    margin-bottom: 15px;
+}
